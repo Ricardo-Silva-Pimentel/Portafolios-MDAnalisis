@@ -14,7 +14,7 @@ class Alumno(ABC):
     def descargar_notas(self):
         print(f"Notas de {self.nombre}:")
         for asig in self.asignaturas:
-            print(f"- {asig.nombre}: 100 (simulado)")
+            print(f"- {asig.nombre}: 7.0 (simulado)")
 
     @abstractmethod
     def roles(self):

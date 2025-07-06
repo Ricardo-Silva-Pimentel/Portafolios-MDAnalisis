@@ -60,3 +60,6 @@ El sistema permite gestionar pagos de clientes a través de una API REST. La ló
 - **DELETE /pagos/{id_pago}**
   - Elimina un pago si está en estado COMPLETADO.
 
+
+## Acceso:
+El repositorio incluye acceso para el colaborador @MrNeo44.

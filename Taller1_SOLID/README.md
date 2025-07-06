@@ -25,8 +25,6 @@ Supuestos:
 - Las notas se simulan con un valor fijo (7.0) y no se almacenan calificaciones reales.
 
 Ejecución:
-1. Clonar el repositorio:
-   git clone https://github.com/usuario/Portafolios-MDAnalisis.git
 2. Navegar a la carpeta:
    cd Portafolios-MDAnalisis/Taller1_SOLID
 3. Ejecutar:
